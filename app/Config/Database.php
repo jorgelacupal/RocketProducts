@@ -26,9 +26,9 @@ class Database extends Config
      */
     public array $default = [
         'DSN'      => '',
-        'hostname' => 'localhost',
+        'hostname' => 'ec2-3-80-204-237.compute-1.amazonaws.com',
         'username' => 'root',
-        'password' => '',
+        'password' => '1234',
         'database' => 'rocketproducts',
         'DBDriver' => 'MySQLi',
         'DBPrefix' => '',
