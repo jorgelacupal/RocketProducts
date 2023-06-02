@@ -22,7 +22,7 @@ class App extends BaseConfig
      * explicitly and never rely on auto-guessing, especially in production
      * environments.
      */
-    public string $baseURL = 'http://localhost/EjerciciosPHP/ProyectoFinal/';
+    public string $baseURL = 'ec2-3-80-204-237.compute-1.amazonaws.com';
 
     /**
      * Allowed Hostnames in the Site URL other than the hostname in the baseURL.
