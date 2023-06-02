@@ -22,7 +22,7 @@ class App extends BaseConfig
      * explicitly and never rely on auto-guessing, especially in production
      * environments.
      */
-    public string $baseURL = 'ec2-54-242-3-19.compute-1.amazonaws.com';
+    public string $baseURL = 'ec2-54-226-61-21.compute-1.amazonaws.com';
 
     /**
      * Allowed Hostnames in the Site URL other than the hostname in the baseURL.
