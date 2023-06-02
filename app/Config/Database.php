@@ -26,7 +26,7 @@ class Database extends Config
      */
     public array $default = [
         'DSN'      => '',
-        'hostname' => 'ec2-3-80-204-237.compute-1.amazonaws.com',
+        'hostname' => 'ec2-54-226-61-21.compute-1.amazonaws.com',
         'username' => 'root',
         'password' => '1234',
         'database' => 'rocketproducts',
